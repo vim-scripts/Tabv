@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4919
+
+I use it along with The NERD tree and CtrlP.Vim in order to easily call up files from within a project and make working in Vim more like working in an IDE.
+
+The main command is :Tabv. It takes one argument, which is the "root" or "stem" of the set of files you want to open. It attempts to guess the type of project you are working on and open the files accordingly.
+
+For more information, visit the GitHub repo https://github.com/Kazark/vim-tabv
